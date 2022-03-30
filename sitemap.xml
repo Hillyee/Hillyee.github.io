@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hillyee.github.io/about/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hillyee.github.io/categories/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://hillyee.github.io/daily/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hillyee.github.io/about/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
