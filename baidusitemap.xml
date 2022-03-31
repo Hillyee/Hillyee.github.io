@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hillyee.github.io/2022/03/31/Vue3%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  <url>
     <loc>https://hillyee.github.io/2022/03/30/%E6%89%8B%E5%86%99call-apply-bind/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
