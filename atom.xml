@@ -6,7 +6,7 @@
   <link href="https://hillyee.github.io/atom.xml" rel="self"/>
   
   <link href="https://hillyee.github.io/"/>
-  <updated>2022-03-31T05:16:39.398Z</updated>
+  <updated>2022-03-31T05:22:59.841Z</updated>
   <id>https://hillyee.github.io/</id>
   
   <author>
@@ -17,22 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>面试每日一题——JS篇</title>
+    <title>面试每日练——JS篇</title>
     <link href="https://hillyee.github.io/2022/03/31/%E9%9D%A2%E8%AF%95%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98%E2%80%94%E2%80%94JS%E7%AF%87/"/>
     <id>https://hillyee.github.io/2022/03/31/%E9%9D%A2%E8%AF%95%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98%E2%80%94%E2%80%94JS%E7%AF%87/</id>
     <published>2022-03-31T01:17:39.000Z</published>
-    <updated>2022-03-31T05:16:39.398Z</updated>
+    <updated>2022-03-31T05:22:59.841Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="1-JS-数据类型">1. JS 数据类型</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="JS-数据类型">JS 数据类型</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;1-JS-数据类型&quot;&gt;1. JS 数据类型&lt;/h3&gt;
+    <summary type="html">&lt;h3 id=&quot;JS-数据类型&quot;&gt;JS 数据类型&lt;/h3&gt;
 </summary>
       
     
     
+    
+    <category term="面试题-js篇" scheme="https://hillyee.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98-js%E7%AF%87/"/>
     
     
   </entry>
