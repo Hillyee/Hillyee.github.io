@@ -6,7 +6,7 @@
   <link href="https://hillyee.github.io/atom.xml" rel="self"/>
   
   <link href="https://hillyee.github.io/"/>
-  <updated>2022-04-03T05:00:01.644Z</updated>
+  <updated>2022-04-03T05:09:39.127Z</updated>
   <id>https://hillyee.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://hillyee.github.io/2022/04/03/%E9%9A%8F%E7%AC%94/"/>
     <id>https://hillyee.github.io/2022/04/03/%E9%9A%8F%E7%AC%94/</id>
     <published>2022-04-03T04:57:12.000Z</published>
-    <updated>2022-04-03T05:00:01.644Z</updated>
+    <updated>2022-04-03T05:09:39.127Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>主要是简单的做一些小总结</p></blockquote><h4 id="原型、原型链、原型对象、构造函数">原型、原型链、原型对象、构造函数</h4><p>每当你定义一个函数的时候，内部</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>主要是简单的做一些小总结</p></blockquote>]]></content>
     
     
       
@@ -31,8 +31,6 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;主要是简单的做一些小总结&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&quot;原型、原型链、原型对象、构造函数&quot;&gt;原型、原型链、原型对象、构造函数&lt;/h4&gt;
-&lt;p&gt;每当你定义一个函数的时候，内部&lt;/p&gt;
 </summary>
       
     
