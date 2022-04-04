@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hillyee.github.io/2022/04/04/VueRouter/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  <url>
     <loc>https://hillyee.github.io/2022/03/30/01_%E6%B7%B1%E5%85%A5JS%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>

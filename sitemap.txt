@@ -1,3 +1,4 @@
+https://hillyee.github.io/2022/04/04/VueRouter/
 https://hillyee.github.io/about/index.html
 https://hillyee.github.io/tags/index.html
 https://hillyee.github.io/categories/index.html
@@ -25,6 +26,7 @@ https://hillyee.github.io/tags/%E9%9D%A2%E8%AF%95/
 https://hillyee.github.io/tags/V2/
 https://hillyee.github.io/tags/V1/
 https://hillyee.github.io/tags/vue3/
+https://hillyee.github.io/tags/vue%E8%B7%AF%E7%94%B1/
 https://hillyee.github.io/categories/%F0%9F%94%AB%E6%B7%B1%E5%85%A5JS%E9%AB%98%E7%BA%A7%E8%AF%AD%E6%B3%95/
 https://hillyee.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
 https://hillyee.github.io/categories/%E6%B7%B1%E5%85%A5Vue3-Typescript%E5%AD%A6%E4%B9%A0/
