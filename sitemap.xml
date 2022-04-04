@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hillyee.github.io/2022/03/30/03_JS%E5%87%BD%E6%95%B0%E7%9A%84this%E6%8C%87%E5%90%91/</loc>
+    
+    <lastmod>2022-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hillyee.github.io/2022/03/31/Vue3%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-04-04</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://hillyee.github.io/2022/04/02/08-JS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
-    
-    <lastmod>2022-04-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hillyee.github.io/2022/03/30/03_JS%E5%87%BD%E6%95%B0%E7%9A%84this%E6%8C%87%E5%90%91/</loc>
     
     <lastmod>2022-04-04</lastmod>
     
