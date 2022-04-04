@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hillyee.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hillyee.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hillyee.github.io/2022/03/30/01_%E6%B7%B1%E5%85%A5JS%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
+    
+    <lastmod>2022-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hillyee.github.io/2022/03/30/03_JS%E5%87%BD%E6%95%B0%E7%9A%84this%E6%8C%87%E5%90%91/</loc>
     
     <lastmod>2022-04-04</lastmod>
@@ -83,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/2022/03/30/01_%E6%B7%B1%E5%85%A5JS%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
-    
-    <lastmod>2022-04-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hillyee.github.io/2022/04/03/%E9%9A%8F%E7%AC%94/</loc>
     
     <lastmod>2022-04-03</lastmod>
@@ -164,24 +182,6 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hillyee.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hillyee.github.io/repository/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
@@ -216,14 +216,14 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/V1/</loc>
+    <loc>https://hillyee.github.io/tags/V2/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/V2/</loc>
+    <loc>https://hillyee.github.io/tags/V1/</loc>
     <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
