@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hillyee.github.io/2022/03/31/Vue3-compositionAPI/</loc>
+    <loc>https://hillyee.github.io/2022/03/30/01_%E6%B7%B1%E5%85%A5JS%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
     
     <lastmod>2022-04-07</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/2022/03/31/Vue3%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://hillyee.github.io/2022/03/31/%E9%9D%A2%E8%AF%95%E9%A2%98%E2%80%94JS%E7%AF%87/</loc>
+    
+    <lastmod>2022-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hillyee.github.io/about/index.html</loc>
     
     <lastmod>2022-04-07</lastmod>
     
@@ -38,7 +47,16 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/2022/03/31/%E9%9D%A2%E8%AF%95%E9%A2%98%E2%80%94JS%E7%AF%87/</loc>
+    <loc>https://hillyee.github.io/2022/03/31/Vue3-compositionAPI/</loc>
+    
+    <lastmod>2022-04-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hillyee.github.io/2022/03/31/Vue3%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-04-07</lastmod>
     
@@ -65,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/about/index.html</loc>
-    
-    <lastmod>2022-04-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hillyee.github.io/tags/index.html</loc>
     
     <lastmod>2022-04-04</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://hillyee.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-04-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hillyee.github.io/2022/03/30/01_%E6%B7%B1%E5%85%A5JS%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
     
     <lastmod>2022-04-04</lastmod>
     
@@ -225,14 +225,14 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/V2/</loc>
+    <loc>https://hillyee.github.io/tags/V1/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/V1/</loc>
+    <loc>https://hillyee.github.io/tags/V2/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,14 +246,14 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/vue%E8%B7%AF%E7%94%B1/</loc>
+    <loc>https://hillyee.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://hillyee.github.io/tags/vue%E8%B7%AF%E7%94%B1/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -283,13 +283,6 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2022-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hillyee.github.io/categories/%E6%B7%B1%E5%85%A5Vue3-Typescript%E5%AD%A6%E4%B9%A0%E2%9A%A1/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -297,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://hillyee.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%F0%9F%98%A5/</loc>
+    <loc>https://hillyee.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -305,6 +298,13 @@
   
   <url>
     <loc>https://hillyee.github.io/categories/JavaScript/</loc>
+    <lastmod>2022-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hillyee.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%F0%9F%98%A5/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
