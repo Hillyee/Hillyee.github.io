@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hillyee.github.io/2022/04/15/%E5%AD%A6%E4%B9%A0TypeScript/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://hillyee.github.io/2022/04/04/VueRouter/</loc>
+    <lastmod>2022-04-14</lastmod>
+  </url>
+  <url>
     <loc>https://hillyee.github.io/2022/03/31/%E9%9D%A2%E8%AF%95%E9%A2%98%E2%80%94JS%E7%AF%87/</loc>
     <lastmod>2022-04-14</lastmod>
   </url>
@@ -35,10 +43,6 @@
   <url>
     <loc>https://hillyee.github.io/2022/04/08/09_class%E5%AE%9A%E4%B9%89%E7%B1%BB-ES6/</loc>
     <lastmod>2022-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://hillyee.github.io/2022/04/04/VueRouter/</loc>
-    <lastmod>2022-04-07</lastmod>
   </url>
   <url>
     <loc>https://hillyee.github.io/2022/04/07/%E5%AD%A6%E4%B9%A0Vuex/</loc>
